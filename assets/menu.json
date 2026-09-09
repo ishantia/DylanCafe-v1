@@ -60,28 +60,28 @@
     "description": "اسپرسو به همراه 120 میل شیر فوم دار",
     "price": 270000,
     "category": "شیرقهوه با نسبت شیر متوسط",
-    "image": "milk-low-cortado.webp"
+    "image": "milk-medium-cappuccino.webp"
   },
   {
     "name": "فلت وایت",
     "description": "اسپرسو به همراه 120 میل شیر فوم دار",
     "price": 270000,
     "category": "شیرقهوه با نسبت شیر متوسط",
-    "image": "milk-low-cortado.webp"
+    "image": "milk-medium-flatwhite.webp"
   },
   {
     "name": "لاته",
     "description": "اسپرسو به همراه 220 میل شیر فوم دار",
     "price": 290000,
     "category": "شیرقهوه با نسبت شیر زیاد",
-    "image": "milk-low-cortado.webp"
+    "image": "milk-high-latte.webp"
   },
   {
     "name": "لاته ماکیاتو",
     "description": "اسپرسو به همراه 220 میل شیر فوم دار",
     "price": 290000,
     "category": "شیرقهوه با نسبت شیر زیاد",
-    "image": "milk-low-cortado.webp"
+    "image": "milk-high-latte.webp"
   },
   {
     "name": "موکا",

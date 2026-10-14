@@ -1,99 +1,99 @@
 [
   {
-    "name": "اسپرسو",
+    "name": "اسپرسو تخصصی",
     "description": "قهوه ای با فراوری طبیعی از کشور مالاوی؛ منطقه فوکا",
-    "price": 270000,
+    "price": 290000,
     "category": "اسپرسو بار",
     "image": "coffee-espresso.webp"
   },
   {
-    "name": "اسپرسو بِلِند",
+    "name": "اسپرسو بلند",
     "description": "",
-    "price": 220000,
+    "price": 255000,
     "category": "اسپرسو بار",
     "image": "coffee-espresso.webp"
   },
   {
-    "name": "آمریکانو",
+    "name": "آمریکانو تخصصی",
     "description": "اسپرسو به همراه 120 میل آب داغ",
-    "price": 280000,
+    "price": 300000,
     "category": "اسپرسو بار",
     "image": "coffee-americano.webp"
   },
   {
-    "name": "آمریکانو بِلِند",
+    "name": "آمریکانو بلند",
     "description": "",
-    "price": 230000,
+    "price": 265000,
     "category": "اسپرسو بار",
     "image": "coffee-americano.webp"
   },
   {
     "name": "آفوگاتو",
     "description": "اسپرسو به همراه دو اسکوپ بستنی",
-    "price": 300000,
+    "price": 360000,
     "category": "اسپرسو بار",
     "image": "coffee-affogato.webp"
   },
   {
     "name": "اسپرسو ماکیاتو",
     "description": "اسپرسو به همراه لکه ای از شیر فرم دار",
-    "price": 240000,
+    "price": 265000,
     "category": "شیرقهوه با نسبت شیر کم",
     "image": "milk-low-macchiato.webp"
   },
   {
     "name": "کورتادو",
     "description": "اسپرسو به همراه 60 میل شیر فوم دار",
-    "price": 260000,
+    "price": 275000,
     "category": "شیرقهوه با نسبت شیر کم",
     "image": "milk-low-cortado.webp"
   },
   {
     "name": "پیکولو",
     "description": "ریسترتو به همراه 60 میل شیر فوم دار",
-    "price": 260000,
+    "price": 275000,
     "category": "شیرقهوه با نسبت شیر کم",
     "image": "milk-low-cortado.webp"
   },
   {
     "name": "کاپوچینو",
     "description": "اسپرسو به همراه 120 میل شیر فوم دار",
-    "price": 270000,
+    "price": 285000,
     "category": "شیرقهوه با نسبت شیر متوسط",
     "image": "milk-medium-cappuccino.webp"
   },
   {
     "name": "فلت وایت",
     "description": "اسپرسو به همراه 120 میل شیر فوم دار",
-    "price": 270000,
+    "price": 285000,
     "category": "شیرقهوه با نسبت شیر متوسط",
     "image": "milk-medium-flatwhite.webp"
   },
   {
     "name": "لاته",
     "description": "اسپرسو به همراه 220 میل شیر فوم دار",
-    "price": 290000,
+    "price": 320000,
     "category": "شیرقهوه با نسبت شیر زیاد",
     "image": "milk-high-latte.webp"
   },
   {
     "name": "لاته ماکیاتو",
     "description": "اسپرسو به همراه 220 میل شیر فوم دار",
-    "price": 290000,
+    "price": 320000,
     "category": "شیرقهوه با نسبت شیر زیاد",
     "image": "milk-high-latte.webp"
   },
   {
     "name": "موکا",
     "description": "اسپرسو به همراه 220 میل شیر فوم دار و سس شکلات",
-    "price": 310000,
+    "price": 350000,
     "category": "شیرقهوه با نسبت شیر زیاد",
     "image": "milk-high-mocha.webp"
   },
   {
     "name": "مید رف",
     "description": "اسپرسو به همراه 220 میل شیر فوم دار، عسل، عصاره وانیل و دارچین",
-    "price": 340000,
+    "price": 380000,
     "category": "شیرقهوه با نسبت شیر زیاد",
     "image": "milk-high-midriff.webp"
   },
@@ -107,82 +107,82 @@
   {
     "name": "وی۶۰",
     "description": "دم‌آوری دستی با روش V60 برای طعمی شفاف و تمیز",
-    "price": 470000,
+    "price": 520000,
     "category": "قهوه های دمی",
     "image": "brew-drip.webp"
   },
   {
     "name": "کمکس",
     "description": "دم‌آوری دستی با روش Chemex برای طعمی شفاف و سبک",
-    "price": 470000,
+    "price": 520000,
     "category": "قهوه های دمی",
     "image": "brew-drip.webp"
   },
   {
     "name": "هات چاکلت",
     "description": "کاکائوی بلژیکی با شیر فوم دار",
-    "price": 280000,
+    "price": 310000,
     "category": "نوشیدنی های گرم",
     "image": "hot-cocoa.webp"
   },
   {
     "name": "چای ماسالا",
     "description": "چای سیاه دم‌کشیده با هل، دارچین، زنجبیل و میخک",
-    "price": 280000,
+    "price": 310000,
     "category": "نوشیدنی های گرم",
     "image": "hot-chai-masala.webp"
   },
   {
     "name": "چای کرک",
     "description": "چای سیاه با شیر و ادویه‌های هندی، طعمی غنی و معطر",
-    "price": 300000,
+    "price": 320000,
     "category": "نوشیدنی های گرم",
     "image": "hot-chai-kark.webp"
   },
   {
     "name": "شیر نسکافه",
     "description": "شیر فوم دار با نسکافه و کمی شکر، طعمی ملایم و شیرین",
-    "price": 230000,
+    "price": 260000,
     "category": "نوشیدنی های گرم",
     "image": "nescafe.webp"
   },
   {
     "name": "شیر عسل",
     "description": "شیر فوم دار با عسل طبیعی و کمی دارچین، طعمی شیرین و آرامش‌بخش",
-    "price": 250000,
+    "price": 290000,
     "category": "نوشیدنی های گرم",
     "image": "hot-honey-milk.webp"
   },
   {
     "name": "ماچا لاته",
     "description": "پودر ماچای ژاپنی با شیر فوم دار",
-    "price": 290000,
+    "price": 320000,
     "category": "ماچا بار",
     "image": "matcha-latte.webp"
   },
   {
     "name": "آیس ماچا لاته",
     "description": "ماچا با یخ و شیر فوم دار",
-    "price": 290000,
+    "price": 320000,
     "category": "ماچا بار",
     "image": "matcha-iced.webp"
   },
   {
     "name": "آیس ماچا استرابری",
     "description": "ماچا با یخ و پوره توت‌فرنگی",
-    "price": 340000,
+    "price": 370000,
     "category": "ماچا بار",
     "image": "iced-strawberry-matcha.webp"
   },
   {
-    "name": "آیس ماچا مانگو",
+    "name": "آیس ماچا منگو",
     "description": "ماچا با یخ و پوره انبه",
-    "price": 350000,
+    "price": 390000,
     "category": "ماچا بار",
     "image": "iced-mango-matcha.webp"
   },
   {
-    "name": "افزودنی",
+    "name": "افزودنی ها",
     "description": "سیروپ وانیل، آیریش، دارچین، فندق، نارگیل و کارامل",
     "price": 45000,
     "category": "ماچا بار",
@@ -234,53 +234,53 @@
     "name": "آیس تی سامر",
     "description": "",
     "price": 290000,
-    "category": "تی بار",
+    "category": "آیس تی بار",
     "image": "iced-tea-summer.webp"
   },
   {
     "name": "آیس تی کریمسون",
     "description": "",
     "price": 290000,
-    "category": "تی بار",
+    "category": "آیس تی بار",
     "image": "iced-tea-crimson.webp"
   },
   {
     "name": "آیس لاته",
     "description": "اسپرسو و شیر فوم دار، به همراه یخ",
-    "price": 290000,
+    "price": 320000,
     "category": "ایس کافی بار",
     "image": "cold-iced-latte.webp"
   },
   {
     "name": "آیس آمریکانو",
     "description": "اسپرسو به همراه 120 میل آب داغ و یخ",
-    "price": 230000,
+    "price": 265000,
     "category": "ایس کافی بار",
     "image": "ice-coffee-americano.webp"
   },
   {
     "name": "آیس موکا",
     "description": "اسپرسو، سس شکلات، شیر و یخ",
-    "price": 310000,
+    "price": 350000,
     "category": "ایس کافی بار",
     "image": "ice-coffee-mocha.webp"
   },
   {
     "name": "گلیس",
     "description": "دو اسکوپ بستنی به همراه کرمی از جنس نسکافه",
-    "price": 320000,
+    "price": 340000,
     "category": "ایس کافی بار",
     "image": "ice-coffee-glace.webp"
   },
   {
     "name": "فراپاچینو",
     "description": "اسپرسو، خامه، شیر، یخ و سیروپ آیریش",
-    "price": 350000,
+    "price": 380000,
     "category": "ایس کافی بار",
     "image": "ice-coffee-ferapatchino.webp"
   },
   {
-    "name": "افزودنی",
+    "name": "افزودنی ها",
     "description": "سیروپ وانیل، آیریش، دارچین، فندق، نارگیل و کارامل",
     "price": 45000,
     "category": "ایس کافی بار",
@@ -308,23 +308,44 @@
     "image": "mocktail-classic-irish.webp"
   },
   {
+    "name": "آبجو",
+    "description": "آبجوی کلاسیک دست ساز، بدون الکل",
+    "price": 350000,
+    "category": "نوشیدنی های تخمیری طبیعی",
+    "image": "beer.webp"
+  },
+  {
+    "name": "شراب بدون الکل",
+    "description": "",
+    "price": 480000,
+    "category": "نوشیدنی های تخمیری طبیعی",
+    "image": "fermented-wine.webp"
+  },
+  {
+    "name": "جینجر اِیل",
+    "description": "نوشیدنی حاصل تخمیر زنجبیل و لیمو",
+    "price": 420000,
+    "category": "نوشیدنی های تخمیری طبیعی",
+    "image": "fermented-ginger-ile.webp"
+  },
+  {
     "name": "راک ماکتیل",
     "description": "نوشیدنی ملس و تند، یادآور موسیقی راک",
-    "price": 290000,
+    "price": 320000,
     "category": "ماکتیل",
     "image": "mocktail-rock.webp"
   },
   {
     "name": "هیپ ماکتیل",
     "description": "نوشیدنی ملس با کمی شوری از جنس نمک دریا، یادآور موسیقی هیپ هاپ",
-    "price": 280000,
+    "price": 310000,
     "category": "ماکتیل",
     "image": "mocktail-hip.webp"
   },
   {
     "name": "پاپ ماکتیل",
     "description": "نوشیدنی به همراه پروتئین طبیعی و بافت پاستیلی، یادآور موسیقی پاپ",
-    "price": 320000,
+    "price": 350000,
     "category": "ماکتیل",
     "image": "mocktail-pop.webp"
   },
@@ -338,91 +359,70 @@
   {
     "name": "سافت راک",
     "description": "عطر و طمعی شیرین از جنس مرکبات، یادآور موسیقی سافت راک",
-    "price": 280000,
+    "price": 310000,
     "category": "ماکتیل",
     "image": "mocktail-soft.webp"
   },
   {
-    "name": "آبجو",
-    "description": "آبجوی کلاسیک دست ساز، بدون الکل",
-    "price": 300000,
-    "category": "نوشیدنی های تخمیری طبیعی",
-    "image": "beer.webp"
-  },
-  {
-    "name": "شراب بدون الکل",
-    "description": "",
-    "price": 420000,
-    "category": "نوشیدنی های تخمیری طبیعی",
-    "image": "fermented-wine.webp"
-  },
-  {
-    "name": "جینجر اِیل",
-    "description": "نوشیدنی حاصل تخمیر زنجبیل و لیمو",
-    "price": 350000,
-    "category": "نوشیدنی های تخمیری طبیعی",
-    "image": "fermented-ginger-ile.webp"
-  },
-  {
     "name": "شیک شکلات",
     "description": "بستنی وانیلی، شیر و شکلات",
-    "price": 370000,
+    "price": 390000,
     "category": "شیک",
     "image": "shake-chocolate.webp"
   },
   {
     "name": "شیک نوتلا",
     "description": "بستنی وانیلی، شیر و نوتلا",
-    "price": 390000,
+    "price": 410000,
     "category": "شیک",
     "image": "shake-nutella.webp"
   },
   {
     "name": "شیک نوتلا توت‌فرنگی",
     "description": "بستنی وانیلی، شیر، نوتلا و توت‌فرنگی تازه",
-    "price": 410000,
+    "price": 430000,
     "category": "شیک",
     "image": "shake-starwberry-nutella.webp"
   },
   {
     "name": "شیک توت‌فرنگی",
     "description": "بستنی وانیلی، شیر و توت‌فرنگی تازه",
-    "price": 390000,
+    "price": 310000,
     "category": "شیک",
     "image": "shake-strawberry.webp"
   },
   {
     "name": "شیک پینات",
     "description": "بستنی وانیلی، شیر و کره بادام زمینی",
-    "price": 380000,
+    "price": 410000,
     "category": "شیک",
     "image": "shake-peanut-butter.webp"
   },
   {
     "name": "شیک اسپرسو",
     "description": "بستنی وانیلی، شیر و اسپرسو",
-    "price": 370000,
+    "price": 390000,
     "category": "شیک",
     "image": "shake-espresso.webp"
   },
   {
     "name": "شیک اورئو",
     "description": "بستنی وانیلی، شیر و بیسکویت اورئو",
-    "price": 370000,
+    "price": 410000,
     "category": "شیک",
     "image": "shake-oreo.webp"
   },
   {
     "name": "شیک لوتوس",
     "description": "بستنی وانیلی، شیر و کره لوتوس ",
-    "price": 390000,
+    "price": 410000,
     "category": "شیک",
     "image": "shake-letus.webp"
   },
   {
     "name": "اسموتی سانست",
     "description": "ترکیب توت فرنگی تازه، پشن فروت و مرکبات",
-    "price": 370000,
+    "price": 390000,
     "category": "اسموتی",
     "image": "smoothie-sunset.webp"
   },
@@ -441,7 +441,7 @@
     "image": "smoothie-red-dance.webp"
   },
   {
-    "name": "کیک شکلات",
+    "name": "کیک شکلاتی",
     "description": "براونی / بلک فارست / خامه شکلات",
     "price": 320000,
     "category": "کیک",
@@ -462,16 +462,16 @@
     "image": "cookie-chocolate-butter.webp"
   },
   {
-    "name": "تیرامیسو",
-    "description": "کلاسیک / شاتوت",
-    "price": 350000,
+    "name": "رول دارچین",
+    "description": "رول دارچین تازه و گرم با روکش کرم پنیر",
+    "price": 320000,
     "category": "کیک",
-    "image": "tiramisu.webp"
+    "image": "cinnamon-roll.webp"
   },
   {
     "name": "فرنچ فرایز",
     "description": "سیب زمینی سرخ شده با نمک و ادویه",
-    "price": 380000,
+    "price": 420000,
     "category": "غذا",
     "image": "french-fries.webp"
   },
@@ -485,14 +485,14 @@
   {
     "name": "کلاسیک برگر",
     "description": "برگر کلاسیک به همراه فرنچ فرایز",
-    "price": 690000,
+    "price": 720000,
     "category": "غذا",
     "image": "classic-burger.webp"
   },
   {
     "name": "پاستا آلفردو",
     "description": "پاستا با سس آلفردو و مرغ گریل شده",
-    "price": 710000,
+    "price": 750000,
     "category": "غذا",
     "image": "pasta-alfredo.webp"
   },
@@ -513,28 +513,28 @@
   {
     "name": "فرنچ تست",
     "description": "فیلینگ خامه و مربای توت فرنگی / خامه و عسل؛ به همراه یک لیوان قهوه‌ی گرم سرو می‌شود",
-    "price": 450000,
+    "price": 480000,
     "category": "صبحانه",
     "image": "franch-toast.webp"
   },
   {
     "name": "چاباتای املت",
     "description": "املت با دو عدد تخم مرغ و نان چاباتا؛ به همراه یک لیوان قهوه‌ی گرم سرو می‌شود",
-    "price": 380000,
+    "price": 410000,
     "category": "صبحانه",
     "image": "omlet-ciabatta.webp"
   },
   {
     "name": "چاباتای امریکن",
-    "description": "توصیحات نان چاباتا پروتوئینی بیکن تخم مرغ؛ به همراه یک لیوان قهوه‌ی گرم سرو می‌شود",
-    "price": 450000,
+    "description": "نان چاباتا پروتئینی، بیکن، تخم مرغ؛ به همراه یک لیوان قهوه‌ی گرم سرو می‌شود",
+    "price": 480000,
     "category": "صبحانه",
     "image": "protein-toast.webp"
   },
   {
     "name": "تست کره بادام زمینی و عسل",
-    "description": "4 عدد نان تست رژیمی به همراه کره بادام زمینی، عسل و موز؛ به همراه یک لیوان قهوه‌ی گرم سرو می‌شود",
-    "price": 390000,
+    "description": "۴ عدد نان تست رژیمی به همراه کره بادام زمینی، عسل و موز؛ به همراه یک لیوان قهوه‌ی گرم سرو می‌شود",
+    "price": 420000,
     "category": "صبحانه",
     "image": "toast-peanut-honey.webp"
   }

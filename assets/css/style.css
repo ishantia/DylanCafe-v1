@@ -698,6 +698,21 @@ mark {
   font-size: 12px;
   color: var(--text-muted);
 }
+.footer__credit {
+  font-size: 12px;
+  margin-top: 2px;
+}
+.footer__credit a {
+  color: var(--text-muted);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--border);
+  transition: color var(--fast) var(--ease), text-decoration-color var(--fast) var(--ease);
+}
+.footer__credit a:hover {
+  color: var(--accent);
+  text-decoration-color: var(--accent);
+}
 
 /* ==========================================================================
    FLOATING ACTION BUTTON (back to top)

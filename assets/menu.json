@@ -469,6 +469,20 @@
     "image": "cinnamon-roll.webp"
   },
   {
+    "name": "حمص",
+    "description": "حمص دست‌ساز به همراه روغن زیتون مزه‌دار شده",
+    "price": 380000,
+    "category": "میان وعده",
+    "image": "hummus.webp"
+  },
+  {
+    "name": "سوپ روز",
+    "description": "سوپ تازه و گرم روز؛ با ترکیبی متفاوت در هر روز",
+    "price": 280000,
+    "category": "میان وعده",
+    "image": "soup-of-the-day.webp"
+  },
+  {
     "name": "فرنچ فرایز",
     "description": "سیب زمینی سرخ شده با نمک و ادویه",
     "price": 420000,

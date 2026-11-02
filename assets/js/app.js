@@ -28,6 +28,7 @@
       "شیک",
       "اسموتی",
       "کیک",
+      "میان وعده",
       "غذا",
       "صبحانه",
     ],
@@ -64,6 +65,7 @@
     { keywords: ["شیک"], icon: "shake" },
     { keywords: ["اسموتی"], icon: "smoothie" },
     { keywords: ["کیک"], icon: "cake" },
+    { keywords: ["میان وعده"], icon: "snack" },
     { keywords: ["غذا"], icon: "food" },
     { keywords: ["صبحانه"], icon: "breakfast" },
   ];
@@ -81,6 +83,7 @@
     shake: '<path d="M8 5h8l-1.2 14a2 2 0 0 1-2 1.8h-1.6a2 2 0 0 1-2-1.8L8 5Z"/><path d="M8 9h8"/><path d="M13 2v4"/><circle cx="13" cy="1.6" r="1"/>',
     smoothie: '<path d="M7.5 8h9l-1.2 11a2 2 0 0 1-2 1.8h-2.6a2 2 0 0 1-2-1.8L7.5 8Z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/><path d="M9.4 12h5.2"/>',
     cake: '<path d="M4 20 12 6l8 14Z"/><path d="M7.2 14h9.6"/><circle cx="12" cy="4" r="1.3"/>',
+    snack: '<path d="M4 11h16a8 8 0 0 1-16 0Z"/><path d="M4 11h16"/><path d="M9 19h6"/><path d="M8 7.5c0-2 2-2 2-4M12 7.5c0-2 2-2 2-4M16 7.5c0-2 2-2 2-4"/>',
     default: '<path d="M6 3v6.5a2 2 0 0 0 4 0V3"/><path d="M8 9.5V21"/><path d="M17 3c-1.7 0-3 2-3 5.5S15.3 14 17 14"/><path d="M17 3v18"/>',
   };
 
